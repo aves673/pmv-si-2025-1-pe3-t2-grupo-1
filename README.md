@@ -1,4 +1,4 @@
-# Título do Projeto
+# Hospedagem Simples
 
 `CURSO: Sistemas de Informação`
 
@@ -6,20 +6,20 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto Design Centrado no Usuário tem como foco a criação de uma experiência intuitiva e acessível para reservas em hotéis de forma simples. A proposta busca entender as necessidades dos usuários e otimizar processos como reserva online, reserva por telefone e check-in/checkout, garantindo praticidade e eficiência.
+
+Com uma abordagem centrada no usuário, o design prioriza uma navegação clara, comunicação transparente e interfaces funcionais. O objetivo é reduzir barreiras no processo de reserva, tornando a experiência mais fluida e satisfatória para os hóspedes, independentemente do meio utilizado.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Kelly Rodrigues
+* Francisco Faria 
+* João Victor Alves
+* Pedro Henrique Valente
 
 ## Orientador
 
-* Nome completo do professor 
+* Maria Inês Lage
 
 # Planejamento
 
